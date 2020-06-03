@@ -1,8 +1,4 @@
 import React from 'react';
-import { Navbar, Card, Row, Col, NavItem, Container } from 'react-bootstrap'
-// import { Code, You } from 'react-bootstrap-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faComments, faCode, faPalette, faPrint, fayou } from '@fortawesome/free-solid-svg-icons'
 import "./header.css"
 import { ReactComponent as Code } from '../../icons/code.svg'
 import { ReactComponent as Communication } from '../../icons/communication.svg'
