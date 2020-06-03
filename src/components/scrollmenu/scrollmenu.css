@@ -1,0 +1,39 @@
+.CardBody {
+	position: absolute;
+	height: 250px;
+	left: 149px;
+	top: 374px;
+
+	background: #FFFFFF;
+	/* ui-cg2 */
+	border: 1px solid #F2F2F7;
+	box-sizing: border-box;
+/* width: 80vw; */
+}
+.prevButton {
+	display: flex;
+flex-direction: row;
+padding: 16px;
+
+position: absolute;
+width: 68px;
+height: 68px;
+left: 104px;
+top: 555px;
+
+background: #FFFFFF;
+/* ui-cg2 */
+
+border: 2px solid #F2F2F7;
+box-sizing: border-box;
+border-radius: 100px;
+}
+
+.imgClass {
+	height: 250px !important;
+	width: 250px !important;
+}
+
+.cardPadding {
+	margin-left: 8px
+}

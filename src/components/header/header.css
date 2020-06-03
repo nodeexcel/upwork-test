@@ -1,0 +1,41 @@
+.HeaderClass {
+	display: flex;
+	flex-direction: row;
+	padding: 0px;
+
+	position: absolute;
+	width: 917px;
+	height: 106px;
+	left: 150px;
+	top: 228px;
+
+	background: #FFFFFF;
+}
+
+
+.HeaderBox {
+	display: flex;
+	flex-direction: column;
+	/* padding: 20px; */
+
+	position: static;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+	/* ui-cg1 */
+
+	background: #FBFBFD;
+	/* ui-cg3 */
+
+	border: 1px solid #E5E5EA;
+	box-sizing: border-box;
+
+	/* Inside Auto Layout */
+
+	flex: none;
+	order: 0;
+	align-self: flex-start;
+	margin: 0px 0px;
+}
